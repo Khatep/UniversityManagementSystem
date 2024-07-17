@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+../.idea
+../out
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+sonarlint
+amplicode-jpa.xml
+jpa-buddy.xml
